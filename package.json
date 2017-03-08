@@ -1,0 +1,25 @@
+{
+  "name": "feedreader",
+  "description": "a rss reader",
+  "private": true,
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bearer1024/feedReader.git"
+  },
+  "keywords": [
+    "rss"
+  ],
+  "author": "bearer1024 silemelon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bearer1024/feedReader/issues"
+  },
+  "homepage": "https://github.com/bearer1024/feedReader#readme"
+}
