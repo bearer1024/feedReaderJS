@@ -11,7 +11,7 @@ FeedReader built with Vue 2.0 + vuex, with server-side rendering.
 - Real-time Feeds List Updates with FLIP Animation
 
 ## Todos
-- [ ] NPM dependencies
+- [x] NPM dependencies
 - [ ] register
 - [ ] login
 - [ ] add rss content
