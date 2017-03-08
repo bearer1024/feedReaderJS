@@ -1,5 +1,6 @@
 # FeedReader
 FeedReader built with Vue 2.0 + vuex, with server-side rendering.
+
 ## Features
 - Server Side Rendering
     - Vue + vue-router + vuex working together
@@ -8,6 +9,7 @@ FeedReader built with Vue 2.0 + vuex, with server-side rendering.
     - Hot-reload in development
     - CSS extraction for production
 - Real-time Feeds List Updates with FLIP Animation
+
 ## Todos
 - [ ] NPM dependencies
 - [ ] register
@@ -17,6 +19,7 @@ FeedReader built with Vue 2.0 + vuex, with server-side rendering.
 - [ ] update rss content
 - [ ] get rss content
 - [ ] logo 
+
 ## Build Setup
 ### Requires Node.js 6+
 ```
