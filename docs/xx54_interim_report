@@ -1,0 +1,69 @@
+According to the preliminaryReport:
+
+Main challenges
+
+To know what are the features this program has to implement.
+
+Register and login,
+Manage RSS feed,
+Self-hosted
+Import/export OPML feeds
+Multiple language support
+Search 
+Keyboard shortcuts
+Social share
+
+To determine what languages and frameworks are going to be used to implement this prog
+ram.
+
+Using PHP as main programming language, combine with Javascript, CSS, MySQL languages.
+Use composer as a tool for dependency management.
+
+To generate well-formed report documents.
+
+I am writting now......
+
+To store information in Dropbox from Javascript.
+
+Using self-hosted way may not be a difficult way to implement.
+
+
+My progress:
+Started to code from long long ago...
+Finished the design of database.
+Working on managing subscriptions.According to the preliminary report:
+
+Main challenges:
+To know what are the features this program has to implement.
+Register and login,
+Manage RSS feed,
+Self-hosted
+Import/export OPML feeds
+Multiple language support
+Search 
+Keyboard shortcuts
+Social share
+To determine what languages and frameworks are going to be used to implement this program.
+Using PHP as main programming language, combine with Javascript, CSS, MySQL languages.
+Use composer as a tool for dependency management.
+To generate well-formed report documents.
+I am writting now......
+To store information in Dropbox from Javascript.
+Using self-hosted way may not be a difficult way to implement.
+Progress report:
+Started to code from long long ago...
+Finished the design of database.
+Working on managing subscriptions.
+
+Technical specifications:
+Using PHP CSS, Javascript to implement this system.
+
+Project plan
+Have a basic understanding of most feed reader’s features       	 (Feb 10th – Feb 20th ) Done
+Learning JavaScript	      	   		       	    		 (Feb 20th – Mar 10th) Done
+Learning Dropbox API						(Mar 10th – Mar 15th ) Done
+Start to code for this project						(Mar 15th – Mar 20th ) Done
+Finish essential part for basic function	     	    		(Mar 20th – Mar 30th ) Working
+Finish extra feature in recommended part	     	    		(Apr 1rt – Apr 10th )
+Finish optional part 		    		     	       		(Apr 10th – Apr 21th )
+Write documents for this project.			      		 (Apr 21th – Apr 30th )
